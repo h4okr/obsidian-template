@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiImages",
+      "LiPercent",
+      "LiGlasses",
+      "LiCalendarCog",
+      "LiMoon"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Obsidian": {
+    "iconName": "LiGem",
+    "iconColor": "#400abd"
+  },
+  "Agenda": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#e0c40b"
+  },
+  "Agenda/Annuel": "LiSun",
+  "Agenda/Hebdo": "LiCalendarRange",
+  "Agenda/Journal": "LiCalendarDays",
+  "Agenda/Mensuel": "LiMoon",
+  "Agenda/Trimestriel": "LiCalendarCog",
+  "Obsidian/Documentation": "LiGlasses",
+  "Obsidian/Patrons": "LiPercent",
+  "@res": "LiImages"
+}

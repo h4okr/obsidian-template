@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
+    "template": "Obsidian/Patrons/zAuto/Patron-Quotidienne.md",
+    "folder": "Agenda/Journal/",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY/W-YYYY",
+    "template": "Obsidian/Patrons/zAuto/Patron-Hebdomadaire.md",
+    "folder": "Agenda/Hebdo/",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY/MMMM YYYY",
+    "template": "Obsidian/Patrons/zAuto/Patron-Mensuelle.md",
+    "folder": "Agenda/Mensuel",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY/YYYY [Q]Q",
+    "template": "Obsidian/Patrons/zAuto/Patron-Trimestrielle.md",
+    "folder": "Agenda/Trimestre",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "[année] YYYY",
+    "template": "Obsidian/Patrons/zAuto/Patron-Annuelle.md",
+    "folder": "Agenda/Annuel",
+    "enabled": true
+  }
+}

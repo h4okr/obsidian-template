@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:Obsidian/Patrons/Fragments/Heure-PatronFragment.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:Obsidian/Patrons/Fragments/Jour+Heure-PatronFragment.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Obsidian/Patrons",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Agenda/Journal",
+      "template": "Obsidian/Patrons/zAuto/Patron-Quotidienne.md"
+    },
+    {
+      "folder": "Agenda/Hebdo",
+      "template": "Obsidian/Patrons/zAuto/Patron-Hebdomadaire.md"
+    },
+    {
+      "folder": "Agenda/Mensuel",
+      "template": "Obsidian/Patrons/zAuto/Patron-Mensuelle.md"
+    },
+    {
+      "folder": "Agenda/Trimestriel",
+      "template": "Obsidian/Patrons/zAuto/Patron-Trimestrielle.md"
+    },
+    {
+      "folder": "Agenda/Annuel",
+      "template": "Obsidian/Patrons/zAuto/Patron-Annuelle.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Obsidian/Patrons/Fragments/Heure-PatronFragment.md",
+    "Obsidian/Patrons/Fragments/Jour+Heure-PatronFragment.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
