@@ -12,15 +12,15 @@ Patron pour une *vault* [Obsidian](https://obsidian.md/) orientée prise de note
 * [Templater](https://github.com/SilentVoid13/Templater) : permet de créer des patrons pour les notes.
 ### Autres plugins recommandés
 Je recommande vivement les plugins suivants :
-* Dataview : pour visualiser des statistiques internes,
-* Style Settings : pour personnaliser le style d’**Obsidian**,
-* Meta Bind : pour ajouter des champs de saisie dans les notes,
-* Metadata Menu : pour rendre *frontmatter* plus interactif,
-* Underline : ajout de raccourci pour souligner et centrer du texte,
-* Various Complements : proposition d’auto-complément comme sur un environnement de développement,
-* Tasks : pour faire du suivi de tâche très précis.
+* [Dataview](obsidian://show-plugin?id=dataview) : pour visualiser des statistiques internes,
+* [Style Settings](obsidian://show-plugin?id=obsidian-style-settings) : pour personnaliser le style d’**Obsidian**,
+* [Meta Bind](obsidian://show-plugin?id=obsidian-meta-bind-plugin) : pour ajouter des champs de saisie dans les notes,
+* [Metadata Menu](obsidian://show-plugin?id=metadata-menu) : pour rendre *frontmatter* plus interactif,
+* [Underline](obsidian://show-plugin?id=obsidian-underline) : ajout de raccourci pour souligner et centrer du texte,
+* [Various Complements](obsidian://show-plugin?id=various-complements) : proposition d’auto-complément comme sur un environnement de développement,
+* [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin) : pour faire du suivi de tâche très précis.
 ## Comment commencer ?
 1. Installer [Obsidian](https://obsidian.md/),
-2. Télécharger ce projet,
-3. Utiliser le dossier téléchargé comme *vault*,
+2. Cloner ce projet localement sur votre machine,
+3. Utiliser le dossier local comme la *vault* d’Obsidian,
 4. Lire le [[mode d’emploi]].
