@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImages",
-      "LiPercent",
-      "LiGlasses",
-      "LiCalendarCog",
-      "LiMoon"
+      "LiPersonStanding",
+      "LiList",
+      "LiUsers2",
+      "LiBookTemplate",
+      "LiImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,12 @@
   "Agenda/Trimestriel": "LiCalendarCog",
   "Obsidian/Documentation": "LiGlasses",
   "Obsidian/Patrons": "LiPercent",
-  "@res": "LiImages"
+  "@res": "LiImages",
+  "Obsidian/Type": "LiBookTemplate",
+  "Agenda/Réunion": "LiUsers2",
+  "Obsidian/Énumération": "LiList",
+  "Personnes": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#bd24db"
+  }
 }

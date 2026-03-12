@@ -33,6 +33,22 @@
     {
       "folder": "Agenda/Annuel",
       "template": "Obsidian/Patrons/zAuto/Patron-Annuelle.md"
+    },
+    {
+      "folder": "Obsidian/Énumération/Littéraux",
+      "template": "Obsidian/Patrons/zAuto/Patron-littéral d’énumération.md"
+    },
+    {
+      "folder": "Personnes",
+      "template": "Obsidian/Patrons/zAuto/Patron-Personne.md"
+    },
+    {
+      "folder": "Agenda/Réunion",
+      "template": "Obsidian/Patrons/zAuto/Patron-Réunion.md"
+    },
+    {
+      "folder": "/",
+      "template": "Obsidian/Patrons/zAuto/Patron-Standard.md"
     }
   ],
   "enable_file_templates": false,

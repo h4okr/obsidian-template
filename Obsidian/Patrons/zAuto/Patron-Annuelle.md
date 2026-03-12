@@ -1,3 +1,6 @@
+---
+créé: <% moment(tp.file.creation_date()).format("YYYY-MM-DD") %>
+---
 # Année <% moment(tp.file.title,'[année ]YYYY').format("YYYY") %>
 
 ← [[Agenda/Annuel/<% moment(tp.file.title,'[année ]YYYY').subtract(1, 'Y').format('[année ]YYYY') %>|<% moment(tp.file.title,'[année ]YYYY').subtract(1, 'Y').format('YYYY') %>]] | [[Agenda/Journal/<% moment(tp.file.title,'[année ]YYYY').add(1, 'Y').format('[année ]YYYY') %>|<% moment(tp.file.title,'[année ]YYYY').add(1, 'Y').format('YYYY') %>]] →
